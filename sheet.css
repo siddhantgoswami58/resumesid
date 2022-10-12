@@ -1,0 +1,41 @@
+body{
+    margin: 150px;
+    padding: 250px;
+    border:1px;
+    border-color: transparent;
+    box-shadow: 10px 10px 10px 10px;
+    scroll-behavior: auto ;
+}
+header{
+    background-image: url(/moon.jpg) ;
+     width: 2000px;
+    height: 2000px;
+    size: 1000px;
+h1{
+    font-size: small;
+text-align: left;
+ }
+ h7{
+    font-size: large;
+ font-weight: bolder;
+ }
+ nav{
+    text-align: right;
+    
+ }
+ .ab{
+    color: black;
+    text-decoration: none;
+ }
+ .photo{
+    margin-left: 100px;
+    margin-right: 30px;
+    mar
+    align-items:center ;
+ }
+ pre{
+    font-stretch: normal;
+ }
+ .info{
+    font-size: larger;
+ }
